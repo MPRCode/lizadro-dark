@@ -1,0 +1,21 @@
+{
+  "name": "lizadro-dark",
+  "displayName": "Lizadro",
+  "description": "Lizadro Dark Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Lizadro Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Lizadro Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}
