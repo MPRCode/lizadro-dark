@@ -3,6 +3,7 @@
   "displayName": "Lizadro",
   "description": "Lizadro Dark Theme",
   "version": "0.0.1",
+  "publisher": "MPRCode",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -17,5 +18,11 @@
         "path": "./themes/Lizadro Dark Theme-color-theme.json"
       }
     ]
-  }
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "mprcode",
+    "lizardo"
+  ]
 }
