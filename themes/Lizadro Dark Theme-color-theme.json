@@ -1,8 +1,8 @@
 {
   "name": "Lizadro Dark Theme",
   "colors": {
-    "activityBar.activeBorder": "#80cbc4",
-    "activityBar.background": "#1a1a1a",
+    "activityBar.activeBorder": "#ce5412",
+    "activityBar.background": "#141414",
     "activityBar.border": "#00000060",
     "activityBar.foreground": "#eeffff",
     "activityBarBadge.background": "#ce5412",
@@ -10,7 +10,7 @@
     "badge.background": "#00000030",
     "badge.foreground": "#4a4a4a",
     "breadcrumb.activeSelectionForeground": "#80cbc4",
-    "breadcrumb.background": "#212121",
+    "breadcrumb.background": "#141414",
     "breadcrumb.focusForeground": "#eeffff",
     "breadcrumb.foreground": "#848484",
     "breadcrumbPicker.background": "#1a1a1a",
@@ -23,8 +23,8 @@
     "debugToolBar.background": "#212121",
     "diffEditor.insertedTextBackground": "#89ddff20",
     "diffEditor.removedTextBackground": "#ff9cac20",
-    "dropdown.background": "#000000",
-    "dropdown.border": "#ffffff10",
+    "dropdown.background": "#151515",
+    "dropdown.border": "#6087cf",
     "editor.background": "#141414",
     "editor.findMatchBackground": "#000000",
     "editor.findMatchBorder": "#80cbc4",
@@ -47,7 +47,7 @@
     "editorGroup.border": "#00000030",
     "editorGroup.dropBackground": "#f0717880",
     "editorGroup.focusedEmptyBorder": "#f07178",
-    "editorGroupHeader.tabsBackground": "#212121",
+    "editorGroupHeader.tabsBackground": "#141414",
     "editorGutter.addedBackground": "#c3e88d60",
     "editorGutter.background": "#141414",
     "editorGutter.deletedBackground": "#f0717860",
@@ -81,7 +81,7 @@
     "editorWidget.resizeBorder": "#80cbc4",
     "extensionButton.prominentBackground": "#2ba143",
     "extensionButton.prominentHoverBackground": "#37af4e",
-    "focusBorder": "#528bff",
+    "focusBorder": "#1a1a1a",
     "input.background": "#1b1d23",
     "input.border": "#181a1f",
     "list.activeSelectionBackground": "#2c313a",
@@ -101,21 +101,21 @@
     "scrollbarSlider.activeBackground": "#747d9180",
     "scrollbarSlider.background": "#4e566680",
     "scrollbarSlider.hoverBackground": "#5a637580",
-    "sideBar.background": "#21252b",
+    "sideBar.background": "#141414",
     "sideBarSectionHeader.background": "#333842",
-    "statusBar.background": "#21252b",
+    "statusBar.background": "#141414",
     "statusBar.debuggingForeground": "#ffffff",
     "statusBar.foreground": "#9da5b4",
     "statusBar.noFolderBackground": "#21252b",
     "statusBarItem.hoverBackground": "#2c313a",
     "tab.activeBackground": "#22323b",
     "tab.activeForeground": "#d7dae0",
-    "tab.border": "#ee6c4d",
-    "tab.inactiveBackground": "#21252b",
+    "tab.border": "#22323b",
+    "tab.inactiveBackground": "#141414",
     "terminalCursor.foreground": "#ffff00",
-    "titleBar.activeBackground": "#21252b",
+    "titleBar.activeBackground": "#141414",
     "titleBar.activeForeground": "#9da5b4",
-    "titleBar.inactiveBackground": "#21252b",
+    "titleBar.inactiveBackground": "#141414",
     "titleBar.inactiveForeground": "#9da5b4",
     "widget.shadow": "#ffffff00"
   },
@@ -375,12 +375,18 @@
       }
     },
     {
+      "scope": "entity.name.tag.css",
+      "settings": {
+        "foreground": "#00ccff"
+      }
+    },
+    {
       "scope": [
         "meta.brackets entity.name.function.operator",
         "punctuation.separator entity.name.function.operator"
       ],
       "settings": {
-        "foreground": "#888D94"
+        "foreground": "#8a9488"
       }
     },
     {
@@ -769,7 +775,7 @@
     {
       "scope": "punctuation",
       "settings": {
-        "foreground": "#888D94"
+        "foreground": "#00f0d8"
       }
     },
     {

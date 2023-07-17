@@ -2,7 +2,7 @@
   "name": "lizadro-dark",
   "displayName": "Lizadro",
   "description": "Lizadro Dark Theme",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "publisher": "MPRCode",
   "engines": {
     "vscode": "^1.80.0"
@@ -10,6 +10,10 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MPRCode/lizadro-vscode-theme"
+  },
   "contributes": {
     "themes": [
       {
@@ -23,6 +27,7 @@
     "theme",
     "dark theme",
     "mprcode",
-    "lizardo"
+    "dark",
+    "lizadro"
   ]
 }
