@@ -226,7 +226,7 @@
     {
       "scope": "constant.other.color",
       "settings": {
-        "foreground": "#C39AC9"
+        "foreground": "#a6a6a6"
       }
     },
     {
@@ -359,14 +359,19 @@
       }
     },
     {
+      "scope": ["entity.name.tag"],
+      "settings": {
+        "foreground": "#d9ed92"
+      }
+    },
+    {
       "scope": [
-        "entity.name.tag",
         "entity.name.tag.js.jsx support.class.component.js.jsx",
         "entity.name.tag support.class.component",
         "source.vue support.class.component"
       ],
       "settings": {
-        "foreground": "#d9ed92"
+        "foreground": "#1ff87d"
       }
     },
     {
@@ -432,7 +437,7 @@
         "entity.other.pseudo-element.css"
       ],
       "settings": {
-        "foreground": "#9CD1BB",
+        "foreground": "#b87bc1",
         "fontStyle": "italic"
       }
     },
@@ -776,7 +781,7 @@
     {
       "scope": "punctuation",
       "settings": {
-        "foreground": "#00f0d8"
+        "foreground": "#fafafa"
       }
     },
     {
@@ -1173,7 +1178,7 @@
     {
       "scope": "support.type.property-name",
       "settings": {
-        "foreground": "#9ce878",
+        "foreground": "#c5db97",
         "fontStyle": "normal"
       }
     },
@@ -1240,7 +1245,7 @@
     {
       "scope": "variable.other.constant",
       "settings": {
-        "foreground": "#C39AC9"
+        "foreground": "#29ff6d"
       }
     },
     {

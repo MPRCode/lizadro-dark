@@ -2,7 +2,7 @@
   "name": "lizadro-dark",
   "displayName": "Lizadro",
   "description": "Lizadro Dark Theme",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "publisher": "MPRCode",
   "engines": {
     "vscode": "^1.80.0"
