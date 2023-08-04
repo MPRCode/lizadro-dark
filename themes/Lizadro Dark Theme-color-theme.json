@@ -25,7 +25,7 @@
     "diffEditor.removedTextBackground": "#ff9cac20",
     "dropdown.background": "#151515",
     "dropdown.border": "#6087cf",
-    "editor.background": "#0a0b0f",
+    "editor.background": "#141414",
     "editor.findMatchBackground": "#000000",
     "editor.findMatchBorder": "#80cbc4",
     "editor.findMatchHighlightBackground": "#00000050",
@@ -49,7 +49,7 @@
     "editorGroup.focusedEmptyBorder": "#f07178",
     "editorGroupHeader.tabsBackground": "#080808",
     "editorGutter.addedBackground": "#c3e88d60",
-    "editorGutter.background": "#0a0b0f",
+    "editorGutter.background": "#141414",
     "editorGutter.deletedBackground": "#f0717860",
     "editorGutter.modifiedBackground": "#82aaff60",
     "editorHoverWidget.background": "#212121",
@@ -101,7 +101,7 @@
     "scrollbarSlider.activeBackground": "#747d9180",
     "scrollbarSlider.background": "#4e566680",
     "scrollbarSlider.hoverBackground": "#5a637580",
-    "sideBar.background": "#0a0b0f",
+    "sideBar.background": "#141414",
     "sideBarSectionHeader.background": "#333842",
     "sideBar.border": "#2c313a",
     "statusBar.background": "#141414",
@@ -781,7 +781,7 @@
     {
       "scope": "punctuation",
       "settings": {
-        "foreground": "#fafafa"
+        "foreground": "#b5b5b5"
       }
     },
     {
